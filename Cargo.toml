@@ -7,6 +7,8 @@ description = "Implementing cryptography on high level"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/Apfelfrosch/hcl"
+keywords = ["crypto"]
+categories = ["cryptography"]
 
 [build-dependencies]
 cc = "1.0"
