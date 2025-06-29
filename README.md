@@ -4,6 +4,15 @@ hcl provides implementations of various cryptograhic concepts such as ratchet.
 
 It is backed by the excellent and well-audited [libsodium](https://doc.libsodium.org/).
 
+## Getting started
+To get started, just create an instance of the Hcl struct like so:
+```rust
+let hcl = Hcl::new().unwrap();
+```
+
+After that, you can use the library through this variable. For more information, see
+[examples](https://github.com/Apfelfrosch/hcl/main/examples) or [tests](https://github.com/Apfelfrosch/hcl/tree/main/src/tests.rs)
+
 ## Features implemented
 - Key generation
   - Symmetric Keys
