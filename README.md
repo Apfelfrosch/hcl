@@ -11,7 +11,7 @@ let hcl = Hcl::new().unwrap();
 ```
 
 After that, you can use the library through this variable. For more information, see
-[examples](https://github.com/Apfelfrosch/hcl/main/examples) or [tests](https://github.com/Apfelfrosch/hcl/tree/main/src/tests.rs)
+[examples](https://github.com/Apfelfrosch/hcl/tree/main/examples) or [tests](https://github.com/Apfelfrosch/hcl/tree/main/src/tests.rs)
 
 ## Features implemented
 - Key generation
