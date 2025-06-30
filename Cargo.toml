@@ -1,6 +1,6 @@
 [package]
 name = "hcl"
-version = "1.0.2"
+version = "1.0.3"
 edition = "2024"
 build = "build.rs"
 description = "Implementing cryptography on high level"
